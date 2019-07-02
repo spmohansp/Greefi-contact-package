@@ -1,0 +1,24 @@
+{
+    "name": "greefitech/contact",
+    "description": "This is demo project for contact page",
+    "type": "project",
+    "authors": [
+        {
+            "name": "spmohansp",
+            "email": "spmohansp@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GreefiTech\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GreefiTech\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
+}
