@@ -1,7 +1,7 @@
 {
     "name": "greefitech/contact",
     "description": "This is demo project for contact page",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "spmohansp",
